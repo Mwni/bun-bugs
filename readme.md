@@ -21,3 +21,7 @@ On some WebSocket server implementations, an established connection gets closed 
 ```bash
 bun run websocket-close-1001.js
 ```
+
+---
+
+✅ These issues have been fixed by [this PR](https://github.com/oven-sh/bun/pull/7371) which has been shipped in Bun v1.0.15.
